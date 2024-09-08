@@ -18,7 +18,7 @@ Priv8Car provides reliable and professional vehicle-for-hire services in Florida
 To get started with Priv8Car, follow these steps:
 
 1. **Visit Our Website**: [Priv8Car Website](http://www.priv8car.com) for more information and to book your ride.
-2. **Contact Us**: Reach out via email at [info@priv8carflorida.com](mailto:info@priv8car.com) or call us at (123) 456-7890 for bookings and inquiries.
+2. **Contact Us**: Reach out via email at [info@priv8car.com](mailto:info@priv8car.com) or call us at (123) 456-7890 for bookings and inquiries.
 
 ## Contributing
 
